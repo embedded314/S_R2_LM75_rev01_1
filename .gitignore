@@ -1,0 +1,8 @@
+*.cproj
+*.xml
+*.atsln
+
+.vs/
+debug/
+inc/
+release/
